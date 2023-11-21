@@ -81,88 +81,88 @@
 
 - 해당하는 그룹의 버튼을 눌러서 다른 타이머 그룹으로 이동 할 수 있다.
 
-![ ](./readme_img/Untitled 1.png)
+![ ](./readme_img/Untitled_1.png)
 
 ##### 1.2.2. 순수 공부시간 확인
 
 - 해당 그룹에서 타이머가 하나라도 동작한다면 그룹의 공부시간이 올라간다.
 
-![ ](./readme_img/Untitled 2.png)
+![ ](./readme_img/Untitled_2.png)
 
 ##### 1.2.3. 타이머 동작 관련
 
 - 타이머는 서로 독립적으로 작동하며, 버튼을 통해 동작 시킬 수 있다.
 - 타이머는 한번에 멈추거나 초기화 하거나 정지시킬 수 있다.
 
-![ ](./readme_img/Untitled 3.png)
+![ ](./readme_img/Untitled_3.png)
 
-![ ](./readme_img/Untitled 4.png)
+![ ](./readme_img/Untitled_4.png)
 
 ##### 1.2.4. 타이머 생성 및 삭제 관련
 
 - CREATETIMER 버튼을 눌러 타이머를 생성한다.
 - X 버튼을 눌러 타이머를 삭제
-  ![ ](./readme_img/Untitled 5.png)
-  ![ ](./readme_img/Untitled 6.png)
+  ![ ](./readme_img/Untitled_5.png)
+  ![ ](./readme_img/Untitled_6.png)
 
 ##### 1.2.5. 타이머 시간 설정하기
 
 - 톱니바퀴 버튼을 누르면 시간을 설정할 수 있는 스와이퍼 창이 나타난다.
 
-  ![ ](./readme_img/Untitled 7.png)
-  ![ ](./readme_img/Untitled 8.png)
+  ![ ](./readme_img/Untitled_7.png)
+  ![ ](./readme_img/Untitled_8.png)
 
 ##### 1.2.6. 환경설정하기
 
 - 좌측 첫번째부터 Device 일련번호 확인, 부저알림 온오프, 와이파이 연결 , 전원 끄기
-  ![ ](./readme_img/Untitled 9.png)
+  ![ ](./readme_img/Untitled_9.png)
 
 ### 2 . 웹 페이지
 
 #### 2.1. 로그인 페이지
 
 - 네이버, 카카오 ,구글 소셜 로그인이 가능하다.
-  ![ ](./readme_img/Untitled 10.png)
+  ![ ](./readme_img/Untitled_10.png)
 
 #### 2.2 회원가입 페이지
 
 - 아이디,비밀번호,이메일을 입력해서 회원가입이 가능하다.
-  ![ ](./readme_img/Untitled 11.png)
+  ![ ](./readme_img/Untitled_11.png)
 
 #### 2.3 비밀번호 찾기 페이지
 
 - 메일 인증을 통해 비밀번호를 변경할 수 있다.
-  ![ ](./readme_img/Untitled 12.png)
-  ![ ](./readme_img/Untitled 13.png)
+  ![ ](./readme_img/Untitled_12.png)
+  ![ ](./readme_img/Untitled_13.png)
 
 #### 2.4. 웹 - 디바이스 연동 페이지
 
 - 디바이스에서 조회할 수 있는 일련번호를 입력해야 서비스 이용이 가능하다
 - 한번 등록하면 다시 입력하지 않아도 된다
 
-  ![ ](./readme_img/Untitled 14.png)
+  ![ ](./readme_img/Untitled_14.png)
 
 #### 2.5 통계 페이지
 
 - 모든그룹 한번에 보기, 그룹별 조회, 하루단위 조회 월단위 조회를 지원한다.
 - 잔디그래프로 연단위 공부시간을 확인가능하고 커서를 올리면 공부시간 상세조회가 가능하다.
 
-  ![ ](./readme_img/Untitled 15.png)
+  ![ ](./readme_img/Untitled_15.png)
 
 #### 2.6 타이머 설정 페이지
 
 - 2,3,4,5 타이머그룹에서의 타이머 세팅을 타이머 설정페이지에서 할 수 있다.
-  ![ ](./readme_img/Untitled 16.png)
+  ![ ](./readme_img/Untitled_16.png)
 
 #### 2.7 마이페이지
 
 - 마이페이지에서 디바이스 일련번호를 새로 등록하거나, 등록여부를 확인 할 수 있다.
-  ![ ](./readme_img/Untitled 17.png)
+  ![ ](./readme_img/Untitled_17.png)
 
 #### 2.8 자동로그아웃 연장
 
 - 자동로그아웃 버튼을 누르면 access 토큰을 재발행 해준다.
-  ![ ](./readme_img/Untitled 18.png)
+  ![ ](./readme_img/Untitled_18.png)
 
 ## 기술설명
 
